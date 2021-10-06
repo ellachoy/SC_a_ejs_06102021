@@ -1,0 +1,9 @@
+section {
+  display: flex;
+  flex-wrap: wrap;
+}
+section > div {
+  border: 1px solid #ccc;
+  margin: 5px;
+  padding: 3%;
+}
